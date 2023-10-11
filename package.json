@@ -1,0 +1,9 @@
+{
+  "name": "my-express-project",
+  "version": "1.0.0",
+  "description": "My Express project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
